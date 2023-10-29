@@ -1,0 +1,25 @@
+{
+  "name": "mongodb-login-entry",
+  "version": "1.0.0",
+  "description": "MongoDB Login Entry for Basic Login",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiTxicz/MongoDB-Login-Entry.git"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "iiTxicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iiTxicz/MongoDB-Login-Entry/issues"
+  },
+  "homepage": "https://github.com/iiTxicz/MongoDB-Login-Entry#readme",
+  "dependencies": {
+    "mongoose": "^7.6.3"
+  }
+}
