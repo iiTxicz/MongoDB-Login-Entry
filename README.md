@@ -6,7 +6,7 @@
  > https://github.com/iiTxicz/Basic-Login-Page-with-MongoDB
 
  # REQUIREMENTS
- > [NODE](https://nodejs.org/en)
+ > [NODEJS](https://nodejs.org/en)
 
  # SETUP
  > ```npm install``` to install all packages
